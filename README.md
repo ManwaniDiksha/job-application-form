@@ -19,7 +19,7 @@ This project is a basic front-end web form built using **HTML** that collects jo
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 - [Setup & Usage](#%EF%B8%8F-setup--usage)
 - [Learning Outcome](#-learning-outcome)
-- [Creators](#-creators)
+- [Creators](#%E2%80%8D-creators)
 - [License](#-license)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
